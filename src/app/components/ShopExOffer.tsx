@@ -15,7 +15,7 @@ const ShopExOffer = () => {
           <FaHeadset className="text-blue-500 text-3xl" />
           <div>
             <h3 className="font-bold text-lg">24/7 Support</h3>
-            <p className="text-gray-600">We're here to help.</p>
+            <p className="text-gray-600">We&apos;re here to help.</p> {/* Fixed here */}
           </div>
         </div>
         <div className="flex items-center space-x-4">
